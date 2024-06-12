@@ -8,4 +8,4 @@ name3=name1;
 name1=name2;
 name2=name3;
 console.log("after swapping :",name1,name2);
-console.log("after swapping : ',name1,name2);
+console.log("after swapping :",name1,name2);
